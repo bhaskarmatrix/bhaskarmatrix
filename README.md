@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhaskar H
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Engineering 
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me : insta - @bhaskar_matrix
 
 <!---
